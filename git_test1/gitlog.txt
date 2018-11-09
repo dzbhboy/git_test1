@@ -1,0 +1,17 @@
+commit 239201fab87b6c49f9ab4ab59e7e1bb6a996024f
+Author: dzbhboy <dzbhboy@qq.com>
+Date:   Mon Oct 15 16:35:06 2018 +0800
+
+    append GPL
+
+commit e2e2e76fc8ae3ca974039334a89ae49371301b57
+Author: dzbhboy <dzbhboy@qq.com>
+Date:   Sat Sep 29 16:53:49 2018 +0800
+
+    add distributed
+
+commit a4855ad85ddf64f3a6d27f368ae65e0947da76de
+Author: dzbhboy <dzbhboy@qq.com>
+Date:   Fri Sep 28 16:28:14 2018 +0800
+
+    wrote a readme file
